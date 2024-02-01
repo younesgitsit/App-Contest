@@ -71,7 +71,7 @@ https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c9
 import speech_recognition as sr
 import openai
 
-openai.api_key = "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" # Secret API key
+openai.api_key = "sk-*********" # Secret API key
 
 recognizer = sr.Recognizer()
 
